@@ -1,2 +1,3 @@
-- 👀 Hi
-my [gitlab](https://gitlab.com/krushl)
+#  👀 Hi
+
+## 👾 [GITLAB](https://gitlab.com/krushl)
